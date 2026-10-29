@@ -28,7 +28,7 @@ function StoreBadge() {
         ref={badgeRef}
         productid="9p3m272md942"
         productname="Xenia Deck"
-        window-mode="direct"
+        window-mode="full"
         theme="auto"
         size="large"
         language="en"
